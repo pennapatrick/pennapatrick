@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello World!
+👩🏻‍💻 Indie Hacker sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studying Computer and Information Systems at IFF, Brazil
 
-<!--
-**pennapatrick/pennapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=pennapatrick&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pennapatrick&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pennapatrick&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pennapatrick) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pkpenna) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=pennapatrick&icon=6&color=3)](https://visitcount.itsvg.in)
